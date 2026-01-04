@@ -23,9 +23,10 @@ It features a background job processing system using **Redis** and **BullMQ** to
 * **Validation**: Zod
 * **Authentication**: JSON Web Tokens (JWT), Bcrypt
 
-## Architecture
-<img src="./assets/architecture.png" alt="Alt Text" width="500"/>
 
+
+## 🏗️ System Architecture
+![System Architecture](./assets/architecture.svg)
 ## 🛠️ Prerequisites
 
 Before running the project, ensure you have the following installed:
